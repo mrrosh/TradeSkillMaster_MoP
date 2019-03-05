@@ -2,4 +2,4 @@
 
 TradeSkillMaster World of Warcraft addon for MoP expansion.
 
-[TradeSkillMaster](https://i.imgur.com/uvmiX.jpg)
+![TradeSkillMaster](https://i.imgur.com/uvmiX.jpg)
